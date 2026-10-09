@@ -1,35 +1,121 @@
-<h1 align="center">Hi, I'm Rashi Raturi</h1>
-<h3 align="center">Data pipelines by the day, backend systems by night.</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Data Engineering.**
+# Rashi Raturi
 
-- 💬 Ask me about : **python, go, apache spark, databricks**
+### Data Engineering · Backend Systems
 
-- 📫 How to reach me : **rashi.raturi2004@gmail.com**
+Building reliable data pipelines and exploring scalable backend systems.
 
-- ⚡ Fun fact : **I think I am funny.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B4252?style=flat-square&logo=linkedin&logoColor=88C0D0)](https://linkedin.com/in/rashi-raturi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-3B4252?style=flat-square&logo=leetcode&logoColor=EBCB8B)](https://leetcode.com/chonkbus)
+[![Email](https://img.shields.io/badge/Email-3B4252?style=flat-square&logo=gmail&logoColor=BF616A)](mailto:rashi.raturi2004@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rashi-raturi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashi-raturi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chonkbus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chonkbus" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+## About Me
+
+- Learning **Data Engineering** with Apache Spark and Databricks.
+- Exploring backend development with Go.
+- Interested in distributed systems, data infrastructure, and scalable applications.
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3B4252?style=flat-square&logo=python&logoColor=88C0D0)
+![C++](https://img.shields.io/badge/C%2B%2B-3B4252?style=flat-square&logo=cplusplus&logoColor=88C0D0)
+![SQL](https://img.shields.io/badge/SQL-3B4252?style=flat-square&logo=postgresql&logoColor=88C0D0)
+![Go](https://img.shields.io/badge/Go-3B4252?style=flat-square&logo=go&logoColor=88C0D0)
+
+**Data Engineering & Platforms**
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B4252?style=flat-square&logo=apachespark&logoColor=EBCB8B)
+![Databricks](https://img.shields.io/badge/Databricks-3B4252?style=flat-square&logo=databricks&logoColor=BF616A)
+![Snowflake](https://img.shields.io/badge/Snowflake-3B4252?style=flat-square&logo=snowflake&logoColor=88C0D0)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-3B4252?style=flat-square&logo=mysql&logoColor=88C0D0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B4252?style=flat-square&logo=postgresql&logoColor=88C0D0)
+![MongoDB](https://img.shields.io/badge/MongoDB-3B4252?style=flat-square&logo=mongodb&logoColor=A3BE8C)
+
+
+**Tools & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-3B4252?style=flat-square&logo=docker&logoColor=88C0D0)
+![Postman](https://img.shields.io/badge/Postman-3B4252?style=flat-square&logo=postman&logoColor=D08770)
+![Git](https://img.shields.io/badge/Git-3B4252?style=flat-square&logo=git&logoColor=BF616A)
+![Linux](https://img.shields.io/badge/Linux-3B4252?style=flat-square&logo=linux&logoColor=EBCB8B)
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Distributed Log Pipeline](https://github.com/rashi-raturi/Distributed-Log-Pipeline)
+
+A high-performance hybrid data engineering pipeline that generates synthetic server logs in C++, processes structured metrics via Apache Spark (PySpark), persists aggregations into PostgreSQL.
+
+`Python` `C++` `Apache Spark` `PostgreSQL` `Docker`
+
+
+</td>
+<td width="50%" valign="top">
+
+### [VoyageCrew](https://github.com/rashi-raturi/VoyageCrew)
+
+A multi agent orchestration system dedicated to crafting personalized travel itineraries tailored to preferences and budget. By analyzing your travel origin, destination, interests, travel dates, and group size, specialized agents collaborate autonomously to curate an itinerary.
+
+`Python` `CrewAI`
 
 
 <!--
-**rashi-raturi/rashi-raturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Analytics Project
+
+Transform raw data into useful analytical datasets.
+
+`SQL` `Databricks` `Snowflake`
+
+[View Repository →](https://github.com/USERNAME/PROJECT_3)
+
+</td>
+<td width="50%" valign="top">
+
+### All Repositories
+
+Explore my projects, experiments, and learning journey.
+
+[Browse Repositories →](https://github.com/USERNAME?tab=repositories)
 -->
+
+</td>
+</tr>
+</table>
+
+
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashi-raturi&theme=nord_dark" width="100%" alt="GitHub contribution summary" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rashi-raturi&theme=nord&hide_border=true&background=2E3440&ring=88C0D0&fire=BF616A&currStreakLabel=88C0D0" width="100%" alt="GitHub contribution streak" />
+
+<br/>
+
+<div align="center">
+
+*Keep building. Keep learning.*
+
+</div>
