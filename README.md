@@ -102,17 +102,6 @@ Explore my projects, experiments, and learning journey.
 
 
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashi-raturi&theme=nord_dark" width="100%" alt="GitHub contribution summary" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rashi-raturi&theme=nord&hide_border=true&background=2E3440&ring=88C0D0&fire=BF616A&currStreakLabel=88C0D0" width="100%" alt="GitHub contribution streak" />
-
-<br/>
 
 <div align="center">
 
