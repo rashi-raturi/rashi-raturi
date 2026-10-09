@@ -19,6 +19,7 @@ Building reliable data pipelines and exploring scalable backend systems.
 - Exploring backend development with Go.
 - Interested in distributed systems, data infrastructure, and scalable applications.
 
+
 ## Tech Stack
 
 **Languages**
@@ -34,12 +35,16 @@ Building reliable data pipelines and exploring scalable backend systems.
 ![Databricks](https://img.shields.io/badge/Databricks-3B4252?style=flat-square&logo=databricks&logoColor=BF616A)
 ![Snowflake](https://img.shields.io/badge/Snowflake-3B4252?style=flat-square&logo=snowflake&logoColor=88C0D0)
 
+**Frameworks & Applications**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-3B4252?style=flat-square&logo=fastapi&logoColor=A3BE8C)
+![Streamlit](https://img.shields.io/badge/Streamlit-3B4252?style=flat-square&logo=streamlit&logoColor=BF616A)
+
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-3B4252?style=flat-square&logo=mysql&logoColor=88C0D0)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B4252?style=flat-square&logo=postgresql&logoColor=88C0D0)
 ![MongoDB](https://img.shields.io/badge/MongoDB-3B4252?style=flat-square&logo=mongodb&logoColor=A3BE8C)
-
 
 **Tools & Infrastructure**
 
@@ -48,6 +53,9 @@ Building reliable data pipelines and exploring scalable backend systems.
 ![Git](https://img.shields.io/badge/Git-3B4252?style=flat-square&logo=git&logoColor=BF616A)
 ![Linux](https://img.shields.io/badge/Linux-3B4252?style=flat-square&logo=linux&logoColor=EBCB8B)
 
+
+
+<!--
 ## Featured Projects
 
 <table>
@@ -71,7 +79,7 @@ A multi agent orchestration system dedicated to crafting personalized travel iti
 `Python` `CrewAI`
 
 
-<!--
+
 </td>
 </tr>
 <tr>
