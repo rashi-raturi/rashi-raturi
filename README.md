@@ -1,8 +1,6 @@
 <div align="center">
 
-# Rashi Raturi
-
-### Data Engineering · Backend Systems
+<img width=65% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&reversal=false&text=Rashi+Raturi&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=Data+Engineering+%C2%B7+Backend+Systems&descSize=20&descAlign=50&descAlignY=75" />
 
 Building reliable data pipelines and exploring scalable backend systems.
 
@@ -18,7 +16,7 @@ Building reliable data pipelines and exploring scalable backend systems.
 - Learning **Data Engineering** with Apache Spark and Databricks.
 - Currently working on [Ecommerce Data Pipeline](https://github.com/rashi-raturi/ecom-pulse).
 - Exploring backend development with Go.
-- Interested in distributed systems, data engineering, and scalable applications.
+- Interested in distributed systems, data engineering and scalable applications.
 
 
 ## Tech Stack
