@@ -15,7 +15,7 @@ Building reliable data pipelines and exploring scalable backend systems.
 
 - Learning **Data Engineering** with Apache Spark and Databricks.
 - Currently working on [Ecommerce Data Pipeline](https://github.com/rashi-raturi/ecom-pulse).
-- Exploring backend development with Go.
+- Exploring backend development with **Go** and **Python**.
 - Interested in distributed systems, data engineering and scalable applications.
 
 
