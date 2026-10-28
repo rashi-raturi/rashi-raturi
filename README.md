@@ -6,7 +6,7 @@ Building reliable data pipelines and exploring scalable backend systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3B4252?style=flat-square&logo=linkedin&logoColor=88C0D0)](https://linkedin.com/in/rashi-raturi)
 [![LeetCode](https://img.shields.io/badge/LeetCode-3B4252?style=flat-square&logo=leetcode&logoColor=EBCB8B)](https://leetcode.com/chonkbus)
-[![Email](https://img.shields.io/badge/Email-3B4252?style=flat-square&logo=gmail&logoColor=BF616A)](mailto:rashi.raturi2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-3B4252?style=flat-square&logo=gmail&logoColor=BF616A)](mailto:rashi.raturi.off@gmail.com)
 
 </div>
 
